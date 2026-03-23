@@ -15,19 +15,18 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv-json/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "Blogs"
     url: /year-archive/
     
   - title: "Links"
     url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv-json/
+
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
